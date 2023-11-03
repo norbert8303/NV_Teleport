@@ -1,6 +1,6 @@
-# nv_teleportv1
+# nv_teleport
 
-Csináltunk nektek egy kis teleport systemet
+Frissen megjelent teleport system
 
-Követelmények : 
-Ox_Lib
+# Követelmények : 
+- ox_lib
